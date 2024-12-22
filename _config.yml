@@ -23,7 +23,7 @@ plugins:
   - jekyll-paginate
 
 # The changelog hq remote theme 
-remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.1
+remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.2
 
 # Default configuration for pagination
 paginate: 10
