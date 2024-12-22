@@ -13,6 +13,10 @@ colors:
 # Build settings
 markdown: kramdown
 
+# Settings for SCSS
+sass:
+  style: compressed 
+
 # Plugins
 plugins:
   - jekyll-remote-theme
