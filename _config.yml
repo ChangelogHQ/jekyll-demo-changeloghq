@@ -2,6 +2,7 @@
 title: Hosted Demo-Changelog
 subtitle: Check out the latest product updates below.
 company: ChangelogHQ
+logo: /assets/images/logo.png
 
 # color configurtion for the theme
 colors:   
@@ -22,7 +23,7 @@ plugins:
   - jekyll-paginate
 
 # The changelog hq remote theme 
-remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.3
+remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.4
 
 # Default configuration for pagination
 paginate: 10
