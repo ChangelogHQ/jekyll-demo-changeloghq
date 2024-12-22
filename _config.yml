@@ -1,5 +1,8 @@
 # Details about the hosted changelog page
-title: Your awesome title
+title: Hosted Demo-Changelog
+subtitle: Check out the latest product updates below.
+company: ChangelogHQ
+logo: /assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -7,6 +10,11 @@ markdown: kramdown
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
 
 # The changelog hq remote theme 
 remote_theme: ChangelogHQ/jekyll-theme-changeloghq
+
+# Default configuration for pagination
+paginate: 10
+paginate_path: "/posts/:num/"
