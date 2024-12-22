@@ -4,6 +4,12 @@ subtitle: Check out the latest product updates below.
 company: ChangelogHQ
 logo: /assets/images/logo.png"
 
+# color configurtion for the theme
+colors:   
+  body-bg: "#f6f6f7" 
+  header-bg: "#4d60f2"
+  post-bg: "#fefefe"  
+
 # Build settings
 markdown: kramdown
 
