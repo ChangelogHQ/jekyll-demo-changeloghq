@@ -21,10 +21,15 @@ sass:
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
+  - jekyll-feed
 
 # The changelog hq remote theme 
-remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.4
+remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.5
 
 # Default configuration for pagination
 paginate: 10
 paginate_path: "/posts/:num/"
+
+# Default configuration for the feed
+feed:
+  path: /posts.atom
