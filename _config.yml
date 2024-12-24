@@ -24,7 +24,7 @@ plugins:
   - jekyll-feed
 
 # The changelog hq remote theme 
-remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.5
+remote_theme: ChangelogHQ/jekyll-theme-changeloghq@v0.0.7
 
 # Default configuration for pagination
 paginate: 10
